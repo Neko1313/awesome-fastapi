@@ -54,6 +54,7 @@
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
 - [FastAPI Azure Auth](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
 - [FastAPI Casbin Auth](https://github.com/officialpycasbin/fastapi-casbin-auth) - Authorization which supports various access control models like RBAC, ReBAC and ABAC through Casbin.
+- [casbin-fastapi-decorator](https://github.com/Neko1313/casbin-fastapi-decorator) - Casbin-powered authorization decorators for FastAPI.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Login](https://github.com/maxrdu/fastapi_login) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login)).
 - [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended)).
